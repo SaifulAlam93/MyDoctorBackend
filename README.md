@@ -1,6 +1,6 @@
 # MyDoctor
 
-This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/).
+This app was created with Spring Boot 3 And Java 17.
 Feel free to contact us for further questions.
 
 ## Development
